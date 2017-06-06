@@ -16,6 +16,8 @@
 
 + Little Bets
 + Crucial Accountability
++ Crucial Conversation
++ Radical Candor
 + The Shape of Design
 
 ## Personal Reading List
