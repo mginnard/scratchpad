@@ -11,6 +11,7 @@
 + [UI and Capability (Ryan Singer)](https://medium.com/@rjs/ui-and-capability-f713c9828c02)
 + [Heroku Values (Adam Wiggins)](https://gist.github.com/adamwiggins/5687294)
 + [In Pursuit of Minimalism (Brandur Leach)](https://brandur.org/minimalism)
++ [Silent Leadership](https://medium.com/@tedgoas/silent-leadership-f236e62ba60d)
 
 ## Career Reading List
 
