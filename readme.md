@@ -6,6 +6,8 @@
 
 > "Building a solid sense of how someone else perceives the world takes work." — [@mike_daws](https://twitter.com/mike_daws)
 
+> "I’ve learned firsthand that excellence in one area of my life promotes excellence in all other areas of my life." — [Joshua Steimle, Why Exercising Is More Important Than My Career](http://time.com/3843445/exercising-higher-priority-business/)
+
 ## Design & Product Articles
 
 + [UI and Capability (Ryan Singer)](https://medium.com/@rjs/ui-and-capability-f713c9828c02)
