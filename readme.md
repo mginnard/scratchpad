@@ -15,8 +15,8 @@
 + [UI and Capability (Ryan Singer)](https://medium.com/@rjs/ui-and-capability-f713c9828c02)
 + [Heroku Values (Adam Wiggins)](https://gist.github.com/adamwiggins/5687294)
 + [In Pursuit of Minimalism (Brandur Leach)](https://brandur.org/minimalism)
-+ [Silent Leadership](https://medium.com/@tedgoas/silent-leadership-f236e62ba60d)
-+ [How GitHub Uses “Deprivation Testing” To Hone Product Design](https://www.fastcompany.com/3010972/how-github-uses-deprivation-testing-to-hone-product-design)
++ [Silent Leadership (Ted Goas)](https://medium.com/@tedgoas/silent-leadership-f236e62ba60d)
++ [How GitHub Uses “Deprivation Testing” To Hone Product Design (Fast Co. Design)](https://www.fastcompany.com/3010972/how-github-uses-deprivation-testing-to-hone-product-design)
 
 ## Career Reading List
 
