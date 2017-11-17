@@ -17,6 +17,7 @@
 + [In Pursuit of Minimalism (Brandur Leach)](https://brandur.org/minimalism)
 + [Silent Leadership (Ted Goas)](https://medium.com/@tedgoas/silent-leadership-f236e62ba60d)
 + [How GitHub Uses “Deprivation Testing” To Hone Product Design (Fast Co. Design)](https://www.fastcompany.com/3010972/how-github-uses-deprivation-testing-to-hone-product-design)
++ [Don't Get Distracted (Caleb Thompson)](https://www.calebthompson.io/talks/dont-get-distracted)
 
 ## Career Reading List
 
