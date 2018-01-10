@@ -23,7 +23,8 @@
 
 + Little Bets
 + Crucial Accountability
-+ Crucial Conversation
++ Crucial Conversations
++ Reinventing Organizations
 + Radical Candor
 + The Shape of Design
 
