@@ -17,7 +17,7 @@
 ### Inner/Outer Richmond & Sunset District
 + http://outerlandssf.com/
 
-### Embarcadero / Financial District (Downtown)
+### Embarcadero & Financial District (Downtown)
 + http://www.slanteddoor.com/
 
 ### SOMA
