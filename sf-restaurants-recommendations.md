@@ -2,6 +2,7 @@
 
 ### Mission
 + http://berettasf.com/
++ http://foreigncinema.com/
 
 ### Castro
 + http://www.frances-sf.com/
@@ -14,10 +15,11 @@
 + http://spqrsf.com/
 + http://statebirdsf.com/
 
-### Inner/Outer Richmond & Sunset District
+### Inner / Outer Richmond & Sunset District
 + http://outerlandssf.com/
 
-### Embarcadero & Financial District (Downtown)
+### Tenderloin / Embarcadero / Financial District / Downtown
 + http://www.slanteddoor.com/
++ http://www.delpopolosf.com/
 
 ### SOMA
