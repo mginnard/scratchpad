@@ -3,13 +3,17 @@
 ### Mission
 + http://berettasf.com/
 + http://foreigncinema.com/
++ https://www.shizensf.com/
++ https://www.shizensf.com/
++ http://pizzeriadelfina.com/
 
 ### Castro
 + http://www.frances-sf.com/
 + http://starbellysf.com/
 
-### Divisadero Corridor
+### Divisadero Corridor & Pacific Heights
 + http://nopasf.com/
++ http://pizzeriadelfina.com/
 
 ### Fillmore Corridor
 + http://spqrsf.com/
@@ -23,3 +27,4 @@
 + http://www.delpopolosf.com/
 
 ### SOMA
++ http://www.bellotasf.com/
