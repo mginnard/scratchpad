@@ -1,5 +1,7 @@
 ## Quotes
 
+> "Whatever you do, do it with enough pride that you'd sign your name to it." — Jack Fairfield
+
 > "Perpetual optimism is a force multiplier." — Colin Powell
 
 > “No matter your title, it is your job to make the people around you feel cared about, empowered, encouraged, and humanized.” — [Adam Brault](http://adambrault.com/)
@@ -9,6 +11,8 @@
 > "I’ve learned firsthand that excellence in one area of my life promotes excellence in all other areas of my life." — [Joshua Steimle, Why Exercising Is More Important Than My Career](http://time.com/3843445/exercising-higher-priority-business/)
 
 > "Ride as much or as little, or as long or as short as you feel. But ride." — [Eddy Merckx](https://en.wikipedia.org/wiki/Eddy_Merckx)
+
+> "Right is right; wrong is wrong." — Jack Fairfield
 
 ## Design & Product Articles
 
