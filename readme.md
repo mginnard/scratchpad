@@ -42,3 +42,7 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + **A Heartbreaking Work of Staggering Genius** by Dave Eggers
 + **Winston Churchill: An Informal Study of Greatness** by Robert Lewis
 + **River of Doubt** by Candice Millard
+
+## San Francisco Restaurants
+
+[Recommendation List](https://github.com/mginnard/scratchpad/blob/master/sf-restaurants-recommendations.md)
