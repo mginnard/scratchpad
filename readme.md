@@ -1,6 +1,6 @@
 ## Quotes
 
-> "Whatever you do, do it with enough pride that you'd sign your name to it." — Jack Fairfield
+> "Whatever you do, do it with enough pride that you'd sign your name to it." — [Jack Fairfield](http://www.leelanaunews.com/news/2018-01-25/Obituaries/JACK_R_FAIRFIELD.html)
 
 > "Perpetual optimism is a force multiplier." — Colin Powell
 
@@ -12,7 +12,7 @@
 
 > "Ride as much or as little, or as long or as short as you feel. But ride." — [Eddy Merckx](https://en.wikipedia.org/wiki/Eddy_Merckx)
 
-> "Right is right; wrong is wrong." — Jack Fairfield
+> "Right is right; wrong is wrong." — [Jack Fairfield](http://www.leelanaunews.com/news/2018-01-25/Obituaries/JACK_R_FAIRFIELD.html)
 
 ## Design & Product Articles
 
