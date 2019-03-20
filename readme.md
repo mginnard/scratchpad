@@ -27,6 +27,7 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + [How GitHub Uses “Deprivation Testing” To Hone Product Design (Fast Co. Design)](https://www.fastcompany.com/3010972/how-github-uses-deprivation-testing-to-hone-product-design)
 + [Don't Get Distracted (Caleb Thompson)](https://www.calebthompson.io/talks/dont-get-distracted)
 + [Usability Heuristics for UI Design (Jakob Nielsen)](https://www.nngroup.com/articles/ten-usability-heuristics/)
++ [Evolution and Revolution as Organizations Grow (Larry Greiner, HBR)](https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow)
 
 ## Career Reading List
 
