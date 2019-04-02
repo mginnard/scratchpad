@@ -37,10 +37,3 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + Reinventing Organizations
 + Radical Candor
 + The Shape of Design
-
-## Personal Reading List
-
-+ **What Is The What** by Dave Eggers
-+ **A Heartbreaking Work of Staggering Genius** by Dave Eggers
-+ **Winston Churchill: An Informal Study of Greatness** by Robert Lewis
-+ **River of Doubt** by Candice Millard
