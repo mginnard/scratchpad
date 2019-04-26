@@ -18,6 +18,8 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 
 > "Right is right; wrong is wrong." — [Jack Fairfield](http://www.leelanaunews.com/news/2018-01-25/Obituaries/JACK_R_FAIRFIELD.html)
 
+> "As soon as you stop learning, resign and move on. Working with highly intelligent people who are constantly teaching you things is a crucial part of of self development." - [Alex Maccaw, 'When you should quit your job'](https://blog.alexmaccaw.com/when-you-should-quit-your-job)
+
 ## Design & Product Articles
 
 + [UI and Capability (Ryan Singer)](https://medium.com/@rjs/ui-and-capability-f713c9828c02)
