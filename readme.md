@@ -39,3 +39,4 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + Reinventing Organizations
 + Radical Candor
 + The Shape of Design
++ Don't Make Me Think
