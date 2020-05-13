@@ -4,8 +4,8 @@
 + http://berettasf.com/
 + http://foreigncinema.com/
 + https://www.shizensf.com/
-+ https://www.shizensf.com/
 + http://pizzeriadelfina.com/
++ https://www.lazybearsf.com/
 
 ### Castro
 + http://www.frances-sf.com/
