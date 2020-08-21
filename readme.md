@@ -25,6 +25,7 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 ## Design & Product Articles
 
 + [UI and Capability (Ryan Singer)](https://medium.com/@rjs/ui-and-capability-f713c9828c02)
++ [Design Heirarchy of Needs (Björn Mascarenhas)](https://medium.theuxblog.com/design-hierarchy-of-needs-the-product-owners-guide-29ceb28205ae)
 + [Heroku Values (Adam Wiggins)](https://gist.github.com/adamwiggins/5687294)
 + [In Pursuit of Minimalism (Brandur Leach)](https://brandur.org/minimalism)
 + [Silent Leadership (Ted Goas)](https://medium.com/@tedgoas/silent-leadership-f236e62ba60d)
@@ -42,3 +43,6 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + Radical Candor
 + The Shape of Design
 + Don't Make Me Think
++ The Design of Everyday Things
++ Who
++ The Subtle Art of Not Giving a F@ck
