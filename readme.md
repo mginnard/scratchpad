@@ -44,5 +44,6 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 + The Shape of Design
 + Don't Make Me Think
 + The Design of Everyday Things
++ The 15 Commitments of Conscious Leadership
 + Who
 + The Subtle Art of Not Giving a F@ck
