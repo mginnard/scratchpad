@@ -10,6 +10,8 @@ A collection of quotes, articles, books and links that I've found helpful or inf
 
 > "Communication at scale is the hardest problem a company will face."
 
+> “Your job is not done until *the job* is done.”
+
 > “No matter your title, it is your job to make the people around you feel cared about, empowered, encouraged, and humanized.” — [Adam Brault](http://adambrault.com/)
 
 > "Building a solid sense of how someone else perceives the world takes work." — [@mike_daws](https://twitter.com/mike_daws)
